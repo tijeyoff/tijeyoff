@@ -7,6 +7,9 @@ Bu loyiha iPhone uchun **native SwiftUI** asosida tayyorlangan konsept app:
 - Google AI (Gemini) API uchun tayyor servis qatlami (`GeminiService`) qo'shilgan.
 - API key va endpoint joyi aniq belgilangan, siz o'zingiz key qo'shib ishga tushirasiz.
 
+- Tayyor `AiBooksApp.xcodeproj` ham qo'shildi, Xcode'da to'g'ridan-to'g'ri ochib ishlatishingiz mumkin.
+
+
 ## Arxitektura
 
 - `Models`: `Book`, `ChatMessage`
