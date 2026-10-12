@@ -2,7 +2,7 @@
 
 <!-- MINIMALIST WHITE MOONSPACE HERO -->
 <br/>
-<img src="assets/hero_banner.png" alt="TIJEY" width="680" />
+<img src="assets/tijey_white.png" alt="TIJEY" width="600" />
 <br/><br/>
 
 <!-- DYNAMIC TYPING SVG (NO EMOJIS) -->
